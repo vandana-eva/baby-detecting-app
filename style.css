@@ -1,0 +1,19 @@
+canvas
+{
+  border: dotted;
+  border-color: rgb(231, 174, 255);  
+  border-radius: 15px;
+}
+
+body 
+{
+background-color: rgb(197, 0, 231);
+}
+
+.heading
+{
+width: 100%;
+font-size: 280%;
+font-family: fantasy;
+color:rgb(166, 0, 125);
+}
